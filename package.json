@@ -1,7 +1,7 @@
 {
   "name": "badwords",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "h7ml <h7ml@qq.com>",
