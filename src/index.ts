@@ -1,2 +1,2 @@
-export const one = 1
-export const two = 2
+import words from './words/index'
+export default words
