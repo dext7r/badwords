@@ -52,4 +52,4 @@ checkWord('广场') // false
 
 # License
 
-[MIT](./LICENSE) License © 2022 [Anthony Fu](https://github.com/h7ml)
+[MIT](./LICENSE) License © 2023 [h7ml](https://github.com/h7ml)
