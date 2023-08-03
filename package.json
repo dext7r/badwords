@@ -52,7 +52,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^0.35.3",
     "@antfu/ni": "^0.20.0",
-    "@antfu/utils": "^0.7.2",
+    "@antfu/utils": "^0.7.3",
     "@types/node": "^18.14.1",
     "bumpp": "^9.0.0",
     "cz-git": "^1.5.3",
