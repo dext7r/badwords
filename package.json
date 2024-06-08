@@ -1,7 +1,7 @@
 {
   "name": "@h7ml/badwords",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@7.12.0",
   "description": "仅限用于合法的、积极向上的敏感词过滤使用，严禁用于从事违反法律法规、危害国家、危害人民、不道德的活动！！！",
   "author": "h7ml <h7ml@qq.com>",
